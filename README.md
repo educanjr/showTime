@@ -8,8 +8,8 @@ Provides a client application to consumes the services provides by the [tvmaze A
 
 ### Home Screen
 
-![Home Screen](/readme/media/Home.png "Home Screen")
+![Home Screen](Images/Home.PNG "Home Screen")
 
 ### Shows Screen
 
-![Shows Screen](/readme/media/Shows.png "Shows Screen")
+![Shows Screen](Images/Shows.PNG "Shows Screen")
