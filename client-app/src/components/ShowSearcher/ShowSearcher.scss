@@ -1,0 +1,28 @@
+.show-search-form{
+    &.page-focused {
+        .search-btn>button.button {
+            width: 25%;
+            font-size: 1.1rem;
+        }
+    
+        .show-search-input>.ui.input>input[type=text] {
+            border-radius: 2rem;
+            height: 4rem;
+            font-size: 1.5rem;
+        }
+    }
+
+    &.small {
+        .search-btn>button.button {
+            display: none;
+            opacity: 0;
+        }
+    }
+
+    &.large {
+        .show-search-input {
+            width: 30rem !important;
+            max-width: 30rem !important;
+        }
+    }
+}
